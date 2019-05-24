@@ -1,5 +1,5 @@
 SYNTAX ANALYSIS:
-  Bottom-Up Parsing:
+  > Bottom-Up Parsing:
     > SHIFT-REDUCE PARSERS
       > Handles: identifying handles in RSFs.
       > Conflicts in SR parsers
@@ -10,6 +10,20 @@ SYNTAX ANALYSIS:
         > Relations in Operator-Precedence Parsers
         > Algorithm: Operator-Precedence Parsing
         > Algorithm: Operator-Precedence Functions (construction)
+      >LR(k) PARSERS
+        > Motivation
+        > Model of an LR Parser
+        > Configuration (with shift, reduce, accept and error)
+        > LR Shift-Reduce Parsing (*)
+        > SLR Parsing (*)
+        > LR(0) Items (*)
+        > LR(1) Items (*)
+        > Canonical LR(1) Parsing (*)
+        > LALR Parsing (*)
+
+SYNTAX-DIRECTED TRANSLATION
+  > 
+        
 
 
 Here are links to resources from different universities that I think are great to refer to while learning compiler design:
