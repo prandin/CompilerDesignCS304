@@ -1,0 +1,15 @@
+Here are links to resources from different universities that I think are great to refer to while learning compiler design:
+
+I like her explanation of why we do things a certain way. Unfortunately, her courses refers the new edition of the "Dragon" book.
+http://web.cs.iastate.edu/~weile/cs440.540/
+
+Another course that refers to the new edition. But things like Run-time environment is well explained here:
+http://user.it.uu.se/~kostis/Teaching/KT1-11/
+
+This site actually does touch by most topics in the textbook:
+https://www.cs.fsu.edu/~engelen/courses/COP5621/
+
+Things like Bootstrapping can be referred here:
+http://homes.et.aau.dk/akh/2011/complierconst-2011.html
+
+For some reason our course followed the old edition of the "Dragon" book, while I think the new version is much simple and easy to grasp. 
