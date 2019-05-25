@@ -31,11 +31,17 @@ SYNTAX-DIRECTED TRANSLATION
     > S-Attributed Grammars and their Bottom-Up Evaluation
     > Dependency Graphs and Topological Sort for Evaluation Order
     > Evalutation Methods - Parse-tree methods, rule-base methods and oblivious methods.
-    > L-Attributed Grammars
-      > Translation Scheme
-      > Implementation of L-Attributed Grammars in Top-Down Parsers
-    > Implementation of Translation Schemes in Bottom-Up Parsers
+  > Syntax Trees
     > Concrete Syntax Trees, Abstract Syntax Trees (ASTs) and S-Attributed Definition for generating ASTs.
+    > DAGs (*)
+  > Bottom-Up Evaluation of S-Attributed Definitions
+  > L-Attributed Grammars
+      > Translation Scheme
+      > Top-Down Translation
+        > Eliminating Left Recursion from a translation scheme (*)
+        > Algorithm: Design of a Predictive Parser(*)
+  > Bottom-Up Evaluation of Inherited Attributes
+    > Implementation of Translation Schemes in Bottom-Up Parsers
     
     
         
