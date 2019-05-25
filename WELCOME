@@ -17,12 +17,27 @@ SYNTAX ANALYSIS:
         > LR Shift-Reduce Parsing (*)
         > SLR Parsing (*)
         > LR(0) Items (*)
+        > Kernel and Non-Kernel Items (*)
         > LR(1) Items (*)
         > Canonical LR(1) Parsing (*)
         > LALR Parsing (*)
 
 SYNTAX-DIRECTED TRANSLATION
-  > 
+  > Syntax-Directed Definitions (Attribute Grammar)
+    > Idea of Depth-First Traversal in Parse Trees
+    > Annotated Parse Trees
+    > Attributes
+    > Synthesized and Inherited Attributes
+    > S-Attributed Grammars and their Bottom-Up Evaluation
+    > Dependency Graphs and Topological Sort for Evaluation Order
+    > Evalutation Methods - Parse-tree methods, rule-base methods and oblivious methods.
+    > L-Attributed Grammars
+      > Translation Scheme
+      > Implementation of L-Attributed Grammars in Top-Down Parsers
+    > Implementation of Translation Schemes in Bottom-Up Parsers
+    > Concrete Syntax Trees, Abstract Syntax Trees (ASTs) and S-Attributed Definition for generating ASTs.
+    
+    
         
 
 
@@ -43,5 +58,9 @@ http://homes.et.aau.dk/akh/2011/complierconst-2011.html
 For Operator Precedence Parsers:
 http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/course/fall2018/CS131/slides/chapter4-4.pdf
 http://www.math.uni.lodz.pl/~robpleb/Wyklad_9_ang.pdf
+
+For kernel and non-kernel items:
+http://staff.cs.upt.ro/~chirila/teaching/upt/mse11-cd/slides/cd0406.pdf
+http://www.cs.nuim.ie/~jpower/Courses/Previous/parsing/node58.html
 
 For some reason our course followed the old edition of the "Dragon" book, while I think the new version is much simple and easy to grasp. 
