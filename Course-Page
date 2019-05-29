@@ -1,3 +1,30 @@
+CS304 - COMPILER DESIGN
+Syllabus:
+
+INTRODUCTORY ASPECTS:
+  > Compilers vs. Interpreters
+  > Language-Processing System
+  > Phases of a Compiler [detailed aspects covered later in the course]
+  > Role of Symbol Table
+  > Compiler Construction Tools
+  > Programming Language Basics
+    - Static/ Dynamic Distinction - Scope
+    - Environment vs. State
+  > Bootstrapping
+  > Cross-compiler
+  
+LEXICAL ANALYSIS:
+  > Lexical Analysis vs. Parsing
+  > Tokens, Patterns and Lexemes
+  > Input Buffering; Sentinel Scheme
+  > Specification of Tokens: Strings, Languages, Operations, Regular Expressions, Regular Definitions [Review]
+  > Recognition of Tokens: Construction of Transition Diagrams; Relation with Input Buffering Scheme;
+  
+
+
+
+
+
 SYNTAX ANALYSIS:
   > Bottom-Up Parsing:
     > SHIFT-REDUCE PARSERS
